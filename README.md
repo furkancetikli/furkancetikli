@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Furkan
 
-<!--
-**furkancetikli/furkancetikli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently preparing for my Bachelor's in Computer Science (Informatik) in Germany.  
+I'm at the beginning of my journey, but I'm passionate about learning and creating.
 
-Here are some ideas to get you started:
+## 🎯 My Goals
+- Enhance my software development skills from beginner to advanced level  
+- Contribute to open-source projects  
+- Strengthen my academic career with a Master's degree internationally  
+- Achieve fluency in both German and English  
+- Learn through technical projects (Python, data analysis, automation, etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I'm Currently Working On
+- Project-based Python learning process  
+- Improving my German to C1 level  
+- Building a habit of using Git and GitHub  
+- Creating my own work system (Notion, planning, learning routines)
+
+## 📌 Note
+This repository is created to document my projects and progress.  
+I'm always open to feedback and suggestions!
+
+---
+
+See you soon! 🚀
