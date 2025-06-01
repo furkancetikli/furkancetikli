@@ -30,6 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=furkancetikli&show_icons=true&theme=react" height="165" style="margin-right: 10px;">
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkancetikli&layout=compact&theme=react" height="165">
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/furkancetikli/github-readme-stats)
 </p>
 
 ---
