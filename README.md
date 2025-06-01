@@ -16,10 +16,7 @@ I'm at the beginning of my journey, but I'm passionate about learning and creati
 - Building a habit of using Git and GitHub  
 - Creating my own work system (Notion, planning, learning routines)
 
-## 📌 Note
-This repository is created to document my projects and progress.  
-I'm always open to feedback and suggestions!
 
----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 See you soon! 🚀
