@@ -1,22 +1,43 @@
-# 👋 Hi, I'm Furkan
+## 👋 Hi there, I'm Furkan Çetikli!
 
-I'm currently preparing for my Bachelor's in Computer Science (Informatik) in Germany.  
-I'm at the beginning of my journey, but I'm passionate about learning and creating.
+🎓 Computer Science enthusiast currently based in Germany  
+💡 Focused on Java, Python, and Artificial Intelligence  
+🧠 Learning every day. Building projects. Preparing for university.
 
-## 🎯 My Goals
-- Enhance my software development skills from beginner to advanced level  
-- Contribute to open-source projects  
-- Strengthen my academic career with a Master's degree internationally  
-- Achieve fluency in both German and English  
-- Learn through technical projects (Python, data analysis, automation, etc.)
+---
 
-## 🛠️ What I'm Currently Working On
-- Project-based Python learning process  
-- Improving my German to C1 level  
-- Building a habit of using Git and GitHub  
-- Creating my own work system (Notion, planning, learning routines)
+### 🛠️ Tech Stack & Tools
 
+- **Languages:** Java (main), Python (automation, AI), C (basic)
+- **AI Libraries:** NumPy, Pandas, Scikit-learn *(soon: TensorFlow, PyTorch)*
+- **Developer Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
+- **Focus Areas:** Algorithms, backend development, educational robotics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkancetikli&show_icons=true&theme=radical)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkancetikli&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-See you soon! 🚀
+### 🚧 Current Focus
+
+- Deepening OOP & data structures knowledge with **Java**
+- Building tools & scripts in **Python**
+- Exploring beginner-friendly **AI models and concepts**
+- Improving German to **C1** for full university admission in Germany
+
+---
+
+### 📊 GitHub Stats
+
+![Furkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkancetikli&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkancetikli&layout=compact&theme=radical)
+
+---
+
+### 🌍 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/furkan-%C3%A7etikli-470869216/)  
+
+---
+
+### 🧭 Motto
+
+> “The best way to learn is by building.”
+
