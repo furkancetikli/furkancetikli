@@ -42,5 +42,5 @@
 
 ### 🧭 Motto
 
-> “The best way to learn is by building.”
+> “The best way to learn is by building”
 
