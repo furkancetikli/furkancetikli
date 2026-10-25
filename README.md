@@ -1,30 +1,29 @@
-## 👋 Hi there, I'm Furkan Çetikli!
+## Hi, I'm Furkan Çetikli 👋
 
-🎓 Computer Science enthusiast currently based in Germany  
-💡 Focused on Java, Python, and Artificial Intelligence  
-🧠 Learning every day. Building projects. Preparing for university.
+CS student at the University of Bremen, based in Germany.
+I learn by building: mostly Java and Python, with a growing interest in AI.
 
----
+### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack & Tools
+- **Languages:** Java (main), Python, C (basics)
+- **Data & AI:** NumPy, Pandas, scikit-learn
+- **Tools:** Git, GitHub, IntelliJ IDEA, VS Code
+- **Interests:** Algorithms, backend development, educational robotics
 
-- **Languages:** Java (main), Python (automation, AI), C (basic)
-- **AI Libraries:** NumPy, Pandas, Scikit-learn *(soon: TensorFlow, PyTorch)*
-- **Developer Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
-- **Focus Areas:** Algorithms, backend development, educational robotics
+### 🚧 Currently
 
----
+- Java: OOP and data structures
+- Python: scripts and automation
+- Beginner-friendly machine learning concepts
+- German: working towards C1
 
-### 🚧 Current Focus
-
-- Deepening OOP & data structures knowledge with **Java**
-- Building tools & scripts in **Python**
-- Exploring beginner-friendly **AI models and concepts**
-- Improving German to **C1** for full university admission in Germany
+### 🌍 Connect
+[LinkedIn](https://www.linkedin.com/in/furkancetikli)
 
 ---
 
 ### 📊 GitHub Stats
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=furkancetikli&show_icons=true&theme=react" height="165" style="margin-right: 10px;">
@@ -33,14 +32,3 @@
 </p>
 
 ---
-
-### 🌍 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/furkan-%C3%A7etikli-470869216/)  
-
----
-
-### 🧭 Motto
-
-> “The best way to learn is by building”
-
