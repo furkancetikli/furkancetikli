@@ -15,7 +15,6 @@ I learn by building: mostly Java and Python, with a growing interest in AI.
 - Java: OOP and data structures
 - Python: scripts and automation
 - Beginner-friendly machine learning concepts
-- German: working towards C1
 
 ### 🌍 Connect
 [LinkedIn](https://www.linkedin.com/in/furkancetikli)
