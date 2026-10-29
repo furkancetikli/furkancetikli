@@ -20,14 +20,3 @@ I learn by building: mostly Java and Python, with a growing interest in AI.
 [LinkedIn](https://www.linkedin.com/in/furkancetikli)
 
 ---
-
-### 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkancetikli&show_icons=true&theme=react" height="165" style="margin-right: 10px;">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkancetikli&layout=compact&theme=react" height="165">  
-</p>
-
----
